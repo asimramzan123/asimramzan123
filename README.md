@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/asimramzan123" target="blank"><img src="https://img.shields.io/twitter/follow/asimramzan123?logo=twitter&style=for-the-badge" alt="asimramzan123" /></a> </p>
 
-- 🔭 I’m currently working on **Image based Shopping Store**
+- 🔭 I’m currently working on **Image Search based E-Commerce Store**
 
 - 🌱 I’m currently learning **Django, DeepLearning.ai Specialization**
 
 - 📫 How to reach me **asimramzan2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N7hCsOJh8v99xVuCOSQml94ijNnA7yJK/view?usp=sharing](https://drive.google.com/file/d/1N7hCsOJh8v99xVuCOSQml94ijNnA7yJK/view?usp=sharing)
+- 📄 Check My Resume [https://drive.google.com/file/d/1N7hCsOJh8v99xVuCOSQml94ijNnA7yJK/view?usp=sharing](https://drive.google.com/file/d/1N7hCsOJh8v99xVuCOSQml94ijNnA7yJK/view?usp=sharing)
 
 - ⚡ Fun fact  <i>**Books Lover**</i>
 
