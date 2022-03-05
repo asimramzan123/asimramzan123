@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asim Ramzan</h1>
-<h3 align="center">A passionate Software Developer with special interests in Artificial Intelligence based software solutions.</h3>
+<h3 align="center">A passionate Software Developer with special interests in AI based software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asimramzan123&label=Profile%20views&color=0e75b6&style=flat" alt="asimramzan123" /> </p>
 
