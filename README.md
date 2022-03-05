@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1N7hCsOJh8v99xVuCOSQml94ijNnA7yJK/view?usp=sharing](https://drive.google.com/file/d/1N7hCsOJh8v99xVuCOSQml94ijNnA7yJK/view?usp=sharing)
 
-- ⚡ Fun fact **Books Lover**
+- ⚡ Fun fact **<i>Books Lover/i>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
