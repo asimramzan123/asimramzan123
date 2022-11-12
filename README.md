@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/asimramzan123" target="blank"><img src="https://img.shields.io/twitter/follow/asimramzan123?logo=twitter&style=for-the-badge" alt="asimramzan123" /></a> </p>
 
-- 🔭 I’m currently working on **Image Search based E-Commerce Store**
+- 🔭 I’m currently working as** Django Developer with Rest API's**
 
-- 🌱 I’m currently learning **Django, DeepLearning.ai Specialization**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 📫 How to reach me **asimramzan2000@gmail.com**
 
